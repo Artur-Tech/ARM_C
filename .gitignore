@@ -1,0 +1,16 @@
+# Ignore build output
+build/
+*.o
+
+# Ignore generated files
+*.log
+*.exe
+*.out
+
+# Ignore editor files
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
